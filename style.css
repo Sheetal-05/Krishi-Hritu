@@ -117,7 +117,7 @@ section{
 .header .nav-bar a{
     font-size: 2rem;
     color: var(--white);
-    margin-left: 3rem;
+    margin-left: 2rem;
     font-weight: 300;
 
 }
@@ -555,10 +555,6 @@ margin-bottom: 1rem;
     }
     
   }
-.googleT{
- padding: 3rem 3.5rem;
- 
-}
 
   @media (max-width:425px){
     .home h1{
@@ -582,7 +578,10 @@ margin-bottom: 1rem;
    
    
     }
-
+.googleT{
+ padding: 2rem 1.5rem;
+ 
+}
 
 
 
